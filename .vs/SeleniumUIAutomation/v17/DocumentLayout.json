@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Piistech\\OneDrive\\Desktop\\New folder (5)\\SeleniumUIAutomation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5B2CF764-AC2E-4F2D-9734-6336ED820C54}|SeleniumUIAutomation\\SeleniumUIAutomation.csproj|c:\\users\\piistech\\onedrive\\desktop\\new folder (5)\\seleniumuiautomation\\seleniumuiautomation\\pages\\dashboardpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B2CF764-AC2E-4F2D-9734-6336ED820C54}|SeleniumUIAutomation\\SeleniumUIAutomation.csproj|solutionrelative:seleniumuiautomation\\pages\\dashboardpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B2CF764-AC2E-4F2D-9734-6336ED820C54}|SeleniumUIAutomation\\SeleniumUIAutomation.csproj|c:\\users\\piistech\\onedrive\\desktop\\new folder (5)\\seleniumuiautomation\\seleniumuiautomation\\tests\\attendancepagetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B2CF764-AC2E-4F2D-9734-6336ED820C54}|SeleniumUIAutomation\\SeleniumUIAutomation.csproj|solutionrelative:seleniumuiautomation\\tests\\attendancepagetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B2CF764-AC2E-4F2D-9734-6336ED820C54}|SeleniumUIAutomation\\SeleniumUIAutomation.csproj|c:\\users\\piistech\\onedrive\\desktop\\new folder (5)\\seleniumuiautomation\\seleniumuiautomation\\pages\\attendancepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B2CF764-AC2E-4F2D-9734-6336ED820C54}|SeleniumUIAutomation\\SeleniumUIAutomation.csproj|solutionrelative:seleniumuiautomation\\pages\\attendancepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B2CF764-AC2E-4F2D-9734-6336ED820C54}|SeleniumUIAutomation\\SeleniumUIAutomation.csproj|c:\\users\\piistech\\onedrive\\desktop\\new folder (5)\\seleniumuiautomation\\seleniumuiautomation\\config\\configurationhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B2CF764-AC2E-4F2D-9734-6336ED820C54}|SeleniumUIAutomation\\SeleniumUIAutomation.csproj|solutionrelative:seleniumuiautomation\\config\\configurationhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B2CF764-AC2E-4F2D-9734-6336ED820C54}|SeleniumUIAutomation\\SeleniumUIAutomation.csproj|c:\\users\\piistech\\onedrive\\desktop\\new folder (5)\\seleniumuiautomation\\seleniumuiautomation\\pages\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B2CF764-AC2E-4F2D-9734-6336ED820C54}|SeleniumUIAutomation\\SeleniumUIAutomation.csproj|solutionrelative:seleniumuiautomation\\pages\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B2CF764-AC2E-4F2D-9734-6336ED820C54}|SeleniumUIAutomation\\SeleniumUIAutomation.csproj|c:\\users\\piistech\\onedrive\\desktop\\new folder (5)\\seleniumuiautomation\\seleniumuiautomation\\tests\\basetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B2CF764-AC2E-4F2D-9734-6336ED820C54}|SeleniumUIAutomation\\SeleniumUIAutomation.csproj|solutionrelative:seleniumuiautomation\\tests\\basetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B2CF764-AC2E-4F2D-9734-6336ED820C54}|SeleniumUIAutomation\\SeleniumUIAutomation.csproj|c:\\users\\piistech\\onedrive\\desktop\\new folder (5)\\seleniumuiautomation\\seleniumuiautomation\\drivers\\driverfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B2CF764-AC2E-4F2D-9734-6336ED820C54}|SeleniumUIAutomation\\SeleniumUIAutomation.csproj|solutionrelative:seleniumuiautomation\\drivers\\driverfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B2CF764-AC2E-4F2D-9734-6336ED820C54}|SeleniumUIAutomation\\SeleniumUIAutomation.csproj|c:\\users\\piistech\\onedrive\\desktop\\new folder (5)\\seleniumuiautomation\\seleniumuiautomation\\tests\\homepagetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B2CF764-AC2E-4F2D-9734-6336ED820C54}|SeleniumUIAutomation\\SeleniumUIAutomation.csproj|solutionrelative:seleniumuiautomation\\tests\\homepagetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B2CF764-AC2E-4F2D-9734-6336ED820C54}|SeleniumUIAutomation\\SeleniumUIAutomation.csproj|c:\\users\\piistech\\onedrive\\desktop\\new folder (5)\\seleniumuiautomation\\seleniumuiautomation\\pages\\basepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B2CF764-AC2E-4F2D-9734-6336ED820C54}|SeleniumUIAutomation\\SeleniumUIAutomation.csproj|solutionrelative:seleniumuiautomation\\pages\\basepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B2CF764-AC2E-4F2D-9734-6336ED820C54}|SeleniumUIAutomation\\SeleniumUIAutomation.csproj|c:\\users\\piistech\\onedrive\\desktop\\new folder (5)\\seleniumuiautomation\\seleniumuiautomation\\seleniumuiautomation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5B2CF764-AC2E-4F2D-9734-6336ED820C54}|SeleniumUIAutomation\\SeleniumUIAutomation.csproj|solutionrelative:seleniumuiautomation\\seleniumuiautomation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B2CF764-AC2E-4F2D-9734-6336ED820C54}|SeleniumUIAutomation\\SeleniumUIAutomation.csproj|c:\\users\\piistech\\onedrive\\desktop\\new folder (5)\\seleniumuiautomation\\seleniumuiautomation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5B2CF764-AC2E-4F2D-9734-6336ED820C54}|SeleniumUIAutomation\\SeleniumUIAutomation.csproj|solutionrelative:seleniumuiautomation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B2CF764-AC2E-4F2D-9734-6336ED820C54}|SeleniumUIAutomation\\SeleniumUIAutomation.csproj|c:\\users\\piistech\\onedrive\\desktop\\new folder (5)\\seleniumuiautomation\\seleniumuiautomation\\utils\\screenshothelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B2CF764-AC2E-4F2D-9734-6336ED820C54}|SeleniumUIAutomation\\SeleniumUIAutomation.csproj|solutionrelative:seleniumuiautomation\\utils\\screenshothelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AttendancePageTests.cs",
+              "DocumentMoniker": "C:\\Users\\Piistech\\OneDrive\\Desktop\\New folder (5)\\SeleniumUIAutomation\\SeleniumUIAutomation\\Tests\\AttendancePageTests.cs",
+              "RelativeDocumentMoniker": "SeleniumUIAutomation\\Tests\\AttendancePageTests.cs",
+              "ToolTip": "C:\\Users\\Piistech\\OneDrive\\Desktop\\New folder (5)\\SeleniumUIAutomation\\SeleniumUIAutomation\\Tests\\AttendancePageTests.cs",
+              "RelativeToolTip": "SeleniumUIAutomation\\Tests\\AttendancePageTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T08:36:56.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BasePage.cs",
+              "DocumentMoniker": "C:\\Users\\Piistech\\OneDrive\\Desktop\\New folder (5)\\SeleniumUIAutomation\\SeleniumUIAutomation\\Pages\\BasePage.cs",
+              "RelativeDocumentMoniker": "SeleniumUIAutomation\\Pages\\BasePage.cs",
+              "ToolTip": "C:\\Users\\Piistech\\OneDrive\\Desktop\\New folder (5)\\SeleniumUIAutomation\\SeleniumUIAutomation\\Pages\\BasePage.cs",
+              "RelativeToolTip": "SeleniumUIAutomation\\Pages\\BasePage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T06:47:15.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ConfigurationHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Piistech\\OneDrive\\Desktop\\New folder (5)\\SeleniumUIAutomation\\SeleniumUIAutomation\\Config\\ConfigurationHelper.cs",
+              "RelativeDocumentMoniker": "SeleniumUIAutomation\\Config\\ConfigurationHelper.cs",
+              "ToolTip": "C:\\Users\\Piistech\\OneDrive\\Desktop\\New folder (5)\\SeleniumUIAutomation\\SeleniumUIAutomation\\Config\\ConfigurationHelper.cs",
+              "RelativeToolTip": "SeleniumUIAutomation\\Config\\ConfigurationHelper.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T06:43:37.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AttendancePage.cs",
+              "DocumentMoniker": "C:\\Users\\Piistech\\OneDrive\\Desktop\\New folder (5)\\SeleniumUIAutomation\\SeleniumUIAutomation\\Pages\\AttendancePage.cs",
+              "RelativeDocumentMoniker": "SeleniumUIAutomation\\Pages\\AttendancePage.cs",
+              "ToolTip": "C:\\Users\\Piistech\\OneDrive\\Desktop\\New folder (5)\\SeleniumUIAutomation\\SeleniumUIAutomation\\Pages\\AttendancePage.cs",
+              "RelativeToolTip": "SeleniumUIAutomation\\Pages\\AttendancePage.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAowCUAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T07:31:57.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DriverFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Piistech\\OneDrive\\Desktop\\New folder (5)\\SeleniumUIAutomation\\SeleniumUIAutomation\\Drivers\\DriverFactory.cs",
+              "RelativeDocumentMoniker": "SeleniumUIAutomation\\Drivers\\DriverFactory.cs",
+              "ToolTip": "C:\\Users\\Piistech\\OneDrive\\Desktop\\New folder (5)\\SeleniumUIAutomation\\SeleniumUIAutomation\\Drivers\\DriverFactory.cs",
+              "RelativeToolTip": "SeleniumUIAutomation\\Drivers\\DriverFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T06:44:36.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DashboardPage.cs",
+              "DocumentMoniker": "C:\\Users\\Piistech\\OneDrive\\Desktop\\New folder (5)\\SeleniumUIAutomation\\SeleniumUIAutomation\\Pages\\DashboardPage.cs",
+              "RelativeDocumentMoniker": "SeleniumUIAutomation\\Pages\\DashboardPage.cs",
+              "ToolTip": "C:\\Users\\Piistech\\OneDrive\\Desktop\\New folder (5)\\SeleniumUIAutomation\\SeleniumUIAutomation\\Pages\\DashboardPage.cs",
+              "RelativeToolTip": "SeleniumUIAutomation\\Pages\\DashboardPage.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T07:30:16.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomePage.cs",
+              "DocumentMoniker": "C:\\Users\\Piistech\\OneDrive\\Desktop\\New folder (5)\\SeleniumUIAutomation\\SeleniumUIAutomation\\Pages\\HomePage.cs",
+              "RelativeDocumentMoniker": "SeleniumUIAutomation\\Pages\\HomePage.cs",
+              "ToolTip": "C:\\Users\\Piistech\\OneDrive\\Desktop\\New folder (5)\\SeleniumUIAutomation\\SeleniumUIAutomation\\Pages\\HomePage.cs",
+              "RelativeToolTip": "SeleniumUIAutomation\\Pages\\HomePage.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAwwBoAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T06:47:52.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BaseTest.cs",
+              "DocumentMoniker": "C:\\Users\\Piistech\\OneDrive\\Desktop\\New folder (5)\\SeleniumUIAutomation\\SeleniumUIAutomation\\Tests\\BaseTest.cs",
+              "RelativeDocumentMoniker": "SeleniumUIAutomation\\Tests\\BaseTest.cs",
+              "ToolTip": "C:\\Users\\Piistech\\OneDrive\\Desktop\\New folder (5)\\SeleniumUIAutomation\\SeleniumUIAutomation\\Tests\\BaseTest.cs",
+              "RelativeToolTip": "SeleniumUIAutomation\\Tests\\BaseTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAiwA8AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T06:46:24.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomePageTests.cs",
+              "DocumentMoniker": "C:\\Users\\Piistech\\OneDrive\\Desktop\\New folder (5)\\SeleniumUIAutomation\\SeleniumUIAutomation\\Tests\\HomePageTests.cs",
+              "RelativeDocumentMoniker": "SeleniumUIAutomation\\Tests\\HomePageTests.cs",
+              "ToolTip": "C:\\Users\\Piistech\\OneDrive\\Desktop\\New folder (5)\\SeleniumUIAutomation\\SeleniumUIAutomation\\Tests\\HomePageTests.cs",
+              "RelativeToolTip": "SeleniumUIAutomation\\Tests\\HomePageTests.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwBQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T06:48:38.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SeleniumUIAutomation.csproj",
+              "DocumentMoniker": "C:\\Users\\Piistech\\OneDrive\\Desktop\\New folder (5)\\SeleniumUIAutomation\\SeleniumUIAutomation\\SeleniumUIAutomation.csproj",
+              "RelativeDocumentMoniker": "SeleniumUIAutomation\\SeleniumUIAutomation.csproj",
+              "ToolTip": "C:\\Users\\Piistech\\OneDrive\\Desktop\\New folder (5)\\SeleniumUIAutomation\\SeleniumUIAutomation\\SeleniumUIAutomation.csproj",
+              "RelativeToolTip": "SeleniumUIAutomation\\SeleniumUIAutomation.csproj",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAswBYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-22T07:05:53.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Piistech\\OneDrive\\Desktop\\New folder (5)\\SeleniumUIAutomation\\SeleniumUIAutomation\\appsettings.json",
+              "RelativeDocumentMoniker": "SeleniumUIAutomation\\appsettings.json",
+              "ToolTip": "C:\\Users\\Piistech\\OneDrive\\Desktop\\New folder (5)\\SeleniumUIAutomation\\SeleniumUIAutomation\\appsettings.json",
+              "RelativeToolTip": "SeleniumUIAutomation\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-22T06:57:49.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ScreenshotHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Piistech\\OneDrive\\Desktop\\New folder (5)\\SeleniumUIAutomation\\SeleniumUIAutomation\\Utils\\ScreenshotHelper.cs",
+              "RelativeDocumentMoniker": "SeleniumUIAutomation\\Utils\\ScreenshotHelper.cs",
+              "ToolTip": "C:\\Users\\Piistech\\OneDrive\\Desktop\\New folder (5)\\SeleniumUIAutomation\\SeleniumUIAutomation\\Utils\\ScreenshotHelper.cs",
+              "RelativeToolTip": "SeleniumUIAutomation\\Utils\\ScreenshotHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T06:45:04.883Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
